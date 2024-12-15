@@ -1,0 +1,7 @@
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: main-namespace
+  labels:
+    dedication: "This is a test namespace"
